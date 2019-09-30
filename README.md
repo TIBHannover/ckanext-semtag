@@ -1,2 +1,2 @@
 # ckanext-semtag
-Semantic Tags extenstion for CLAN
+Semantic Tags extenstion for CKAN
